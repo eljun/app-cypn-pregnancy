@@ -148,7 +148,8 @@ a, li, td, blockquote {
 
 .overview {
   background-repeat:no-repeat;
-  background-position:left bottom;
+  background-position:right bottom;
+  background-size: contain;
 }
 
 .t-colored-2 {
