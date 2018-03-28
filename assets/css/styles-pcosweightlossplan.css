@@ -1,0 +1,439 @@
+a {
+  color:#731369;
+}
+
+body, html {
+  color:#263238;
+  background:#ECEFF1;
+  font-size:22px;
+  line-height:1.6em;
+  font-family:'Lato';
+  font-weight:400;
+}
+iframe {
+  max-width: 100%
+}
+.swiper-container {
+  width:100%;
+  padding-right:55px;
+  padding-left:55px;
+  padding-top:55px;
+  padding-bottom:55px;
+  overflow:hidden;
+}
+
+.swiper-pagination-bullet-active {
+  background:rgba(255,255,255, .38);
+  width:18px;
+  height:18px;
+}
+
+.swiper-pagination-bullet {
+  background:rgba(255,255,255, .78);
+  width:18px;
+  height:18px;
+}
+
+
+.f-lato {
+  font-family: 'Lato' !important;
+}
+.header-strapline {
+  background:#70bcb9;
+  box-shadow: 0px 3px 6px rgba(0,0,0, .12);
+  -webkit-box-shadow: 0px 3px 6px rgba(0,0,0, .12);
+  -moz-box-shadow: 0px 3px 6px rgba(0,0,0, .12);
+}
+
+.t-white {
+  color:#fff;
+}
+
+.t-colored {
+  color:#731369;
+}
+.b-colored {
+  background: #731369 !important;
+  color: #fff;
+}
+.header-tagline {
+  max-width:100%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.b-gradient {
+  background:#731369;
+  -webkit-background:linear-gradient(45deg,#70bcb9,#731369);
+  -moz-background:linear-gradient(45deg,#70bcb9,#731369);
+  background:linear-gradient(45deg,#70bcb9,#731369);
+}
+
+.section {
+  padding-top:1.5em;
+  padding-bottom:1.5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family:'Playfair Display';
+}
+
+.t-bold {
+  font-weight:600;
+}
+
+a, li, td, blockquote {
+  font-family:'Lato';
+  font-size:22px;
+  line-height:1.6em;
+}
+
+.btn.btn-primary {
+  background-color:#70bcb9;
+  border-color:#70bcb9;
+}
+
+.btn.btn-primary:hover {
+  background-color:#9c27b0;
+  border-color:#9c27b0;
+}
+
+.btn {
+  padding-top:12px;
+  padding-right:35px;
+  padding-bottom:12px;
+  padding-left:35px;
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+  background: #9c27b0; 
+  border-color: #9c27b0; 
+}
+
+.btn-custom {
+  border: 2px solid #fff;
+}
+.btn-custom:hover {
+  background: #fff;
+  color: #9c27b0 ;
+  border: 2px solid #fff;
+}
+.b-white {
+  background:#fff;
+}
+
+.b-colored {
+  background:#9c27b0;
+}
+
+.main-header {
+  background-repeat:no-repeat;
+  background-position:top center;
+  background-size:cover;
+}
+
+.header-strapline p {
+  margin-bottom:10px;
+}
+
+.t-thin {
+  font-weight:300;
+}
+
+.hr-colored {
+  width:100px;
+  height:4px;
+  background:rgba(0,0,0, .12);
+  border:none;
+}
+
+.overview {
+  background-repeat:no-repeat;
+  background-position:left bottom;
+}
+
+.t-colored-2 {
+  color:#00b7bb;
+}
+
+.btn-inverted {
+  border:2px solid #fff;
+}
+
+.btn-inverted {
+  border:2px solid #70bcb9;
+  background:#70bcb9;
+  color:#fff;
+}
+
+.icon-check {
+  margin-right:15px;
+  vertical-align:middle;
+  position:relative;
+  top:-2px;
+}
+
+.t-underline {
+  text-decoration:underline;
+}
+
+.course-info-body ul.disabled-list li {
+  padding-left:45px;
+  padding-right:65px;
+  margin-bottom:15px;
+  list-style:none;
+  background:url("http://www.conqueryourpcosnaturally.com/wp-content/uploads/2018/03/cancel.svg") no-repeat left 3px;
+  background-size:28px;
+}
+
+.course-info-body ul li {
+  padding-left:45px;
+  padding-right:65px;
+  margin-bottom:15px;
+  list-style:none;
+  background:url("http://www.conqueryourpcosnaturally.com/wp-content/uploads/2018/03/checked2.svg") no-repeat left 3px;
+  background-size:28px;
+}
+
+.course-info-body ul li:after {
+  content:"";
+  position:absolute;
+  background:url("checked_(1).svg");
+}
+
+.course-info-body ul {
+  margin:0 0 25px 0;
+  padding:0 0 0 25px;
+}
+
+.course-info-body > ul > li.heading {
+  list-style:none;
+  padding-left:0px;
+  margin-left:-25px;
+  font-size:28px;
+  font-weight:bold;
+  text-align:center;
+  background:none !important;
+}
+
+li.list-subheading ul {
+  list-style:none;
+  padding-left:0px !important;
+  background:none !important;
+}
+
+li.list-subheading {
+  list-style:none;
+  padding-left:0px !important;
+  background:none !important;
+}
+
+.t-italic {
+  font-style:italic;
+}
+
+.t-white-54 {
+  color:rgba(255,255,255, .54);
+}
+
+.details {
+  background: #fafafa
+}
+.details-facts:before {
+  content: "";
+  display: block;
+  width: 100px;
+  height: 75px;
+  margin-left: auto;
+  margin-right:auto;
+  background: #70bcb9 url('http://www.conqueryourpcosnaturally.com/wp-content/uploads/2018/03/details-top-bg.png') no-repeat top center;
+}
+.details-facts {
+  background: #70bcb9 url('http://www.conqueryourpcosnaturally.com/wp-content/uploads/2018/03/details-part2-background.jpg') no-repeat top center;
+}
+.details-myth {
+  background: #fff url('http://www.conqueryourpcosnaturally.com/wp-content/uploads/2018/03/details-myth-background.jpg') no-repeat top left fixed;
+  background-size: contain;
+}
+.papertype {
+  width: 960px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 35px;
+}
+.details-myth .papertype {
+  width: 768px;
+  margin-right: 0px;
+}
+.list-colored li{
+  padding-left: 45px;
+  padding-right: 65px;
+  margin-bottom: 15px;
+  list-style: none;
+  background: url(http://www.conqueryourpcosnaturally.com/wp-content/uploads/2018/03/checked2.svg) no-repeat left 3px;
+  background-size: 28px;
+}
+
+.bordered {
+  border: 1px solid rgba(0,0,0, .12);
+}
+.list-white li{  
+  padding-left: 45px;
+  padding-right: 35px;
+  margin-bottom: 15px;
+  list-style: none;
+  background: url(http://www.conqueryourpcosnaturally.com/wp-content/uploads/2018/03/check.svg) no-repeat left 3px;
+  background-size: 28px;
+}
+.list-columns li {
+  display: inline-block;
+  width: 50%;
+}
+.course-inf-header h2 {
+  font-size: 60px;
+}
+.card-body {
+  padding: 25px 55px;
+}
+.card-header {
+  padding: 0px;
+  border:0px;
+  border-radius: 0px !important;
+  margin-bottom: 5px;
+}
+.card-header .btn-link {
+  background: #f4f6f8;
+  display: block;
+  width: 100%;
+  text-align: left;
+  font-family: "Lato";
+  color: #000;
+  font-weight: 600;
+  border: 0px;
+  padding: 25px 55px;
+}
+.card {
+  border: 0px;
+}
+svg {
+  vertical-align: middle;
+  margin-right: 15px;
+  opacity: .54
+}
+.card-item:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+.card-item {
+  border-bottom: 1px solid rgba(0,0,0, .12);
+  padding: 25px 0;
+}
+.card-item .card-info {
+  width: 70%;
+  padding-left: 25px;
+}
+
+.card-item .card-thumbnail {
+  width: 30%;
+  float: left;
+}
+.signature-image {
+  width: 150px;
+}
+#headingTwo .btn {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+@media (max-width: 1024px){
+  .course-info-body ul.disabled-list li,
+  .course-info-body ul li {
+    padding-right: 25px
+  }
+  .details .col-md-4 {text-align: center}
+  .details img {
+    margin: 0px !important;
+  }
+}
+@media (max-width: 640px){
+  .details-facts .d-flex {
+    display: block !important
+  }
+  .details-facts ul {
+    max-width: 100%;
+  }
+  .card-body {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .card-item .card-thumbnail {
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  .card-item .card-thumbnail, .card-item .card-info {
+    width: 100%
+  }
+  .card-item .card-info {
+    padding-left: 0px;
+  }
+  .card-item .card-info .btn {
+    display: block;
+  }
+}
+@media (max-width: 480px){
+  h1 {
+    font-size: 2rem;
+  }
+  h2 {
+    font-size: 1.5rem;
+  }
+  h3 {
+    font-size: 1.2rem;
+  }  
+  h4 {
+    font-size: 1.2rem;
+  }
+
+  .course-info {
+    margin-bottom: 1em;
+  }
+  .course-info-body ul.disabled-list li, .course-info-body ul li {
+    padding-right: 0px !important;
+  }
+  .testimonials .papertype{
+    padding: 25px 0px;
+  }
+  .papertype {
+    padding: 25px;
+  }
+  .header-strapline p {
+    font-size: 16px;
+  }
+  .overview .btn {
+    font-size: 16px;
+  }
+  .list-white li {
+    padding-right: 15px;
+  }
+  .list-colored li {
+    padding-right: 0px;
+  }
+  .course-info-body ul {
+    padding-left: 0px;
+  }
+
+  .card-header .btn-link {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  .btn {
+    font-size: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+    display: block
+  }
+  .papertype.p-5 {
+    padding: 25px !important
+  }
+}
