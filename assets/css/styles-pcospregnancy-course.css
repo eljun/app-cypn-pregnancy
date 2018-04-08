@@ -27,6 +27,12 @@ iframe {
   width:18px;
   height:18px;
 }
+.swiper-button-prev {
+  background: url('../img/arrow-left.svg')
+}
+.swiper-button-next {
+  background: url('../img/arrow-right.svg')
+}
 
 .swiper-pagination-bullet {
   background:rgba(255,255,255, .78);
