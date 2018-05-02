@@ -182,7 +182,13 @@ a, li, td, blockquote {
 .t-underline {
   text-decoration:underline;
 }
-
+li.disabled-list {
+  background:url("http://www.conqueryourpcosnaturally.com/wp-content/uploads/2018/03/cancel.svg") no-repeat left 3px !important;
+  background-size:28px !important;
+}
+.course-info-body .course-plus .list-subheading {
+  padding-right: 35px;
+}
 .course-info-body ul.disabled-list li {
   padding-left:45px;
   padding-right:65px;
@@ -354,6 +360,7 @@ svg {
   text-overflow: ellipsis;
 }
 @media (max-width: 1024px){
+  li.disabled-list,
   .course-info-body ul.disabled-list li,
   .course-info-body ul li {
     padding-right: 25px
